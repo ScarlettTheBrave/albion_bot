@@ -1,0 +1,16 @@
+﻿.*
+!.gitignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite*
+*.log
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+*.svg
